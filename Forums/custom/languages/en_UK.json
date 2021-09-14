@@ -1,0 +1,8 @@
+{
+  "admin": {
+
+  },
+  "apple": "An apple",
+  "apple_0": "No apples",
+  "apple_plural": "{{count}} apples"
+}
